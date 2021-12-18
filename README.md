@@ -1,6 +1,8 @@
 # cloud_photo  
   
 You need install python3  
+
+Secrets you should save in .aws as we did in the lesson
   
 Commands:  
 python3 cloud_photo upload -p path -a album  
