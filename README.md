@@ -2,7 +2,7 @@
   
 You need install python3  
 
-Secrets you should save in .aws as we did in the lesson
+Secrets you should save in .aws as we did in the lesson  
 Set bucket name in the code
   
 Commands:  
